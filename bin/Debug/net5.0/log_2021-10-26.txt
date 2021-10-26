@@ -1,0 +1,47 @@
+2021-10-26 15:28:16 - Program Started~
+2021-10-26 15:28:16 - Error: The filename, directory name, or volume label syntax is incorrect. : 'E:\proj\caAssignment1\bin\Debug\net5.0\Output_2021-10-26 15:28:16.csv' -    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.Create(String path)
+   at caAssignment1.Program.generateOutput(String outputName, List`1 studentsList) in E:\proj\caAssignment1\Program.cs:line 189
+2021-10-26 15:28:16 - Error:    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.Create(String path)
+   at caAssignment1.Program.generateOutput(String outputName, List`1 studentsList) in E:\proj\caAssignment1\Program.cs:line 189
+2021-10-26 15:28:16 - Program Started~
+2021-10-26 15:28:16 - Error: Invalid Header Name!
+2021-10-26 15:28:16 - Program Started~
+2021-10-26 15:28:16 - Error: Input file not existed!
+2021-10-26 15:28:16 - Program Started~
+2021-10-26 15:28:16 - Error: Invalid Header Number!
+2021-10-26 15:28:16 - Program Started~
+2021-10-26 15:28:16 - Error: Student Name empty!
+2021-10-26 15:28:16 - Program Started~
+2021-10-26 15:28:16 - Error: Invalid Column Amount Of Student!
+2021-10-26 15:28:16 - Program Started~
+2021-10-26 15:28:16 - Error: Invalid Student Rating Type
+2021-10-26 15:29:08 - Program Started~
+2021-10-26 15:29:08 - Bob, 1, 
+2021-10-26 15:29:08 - Ellen , 2, 
+2021-10-26 15:29:08 - Philip, 1, 
+2021-10-26 15:29:08 - Hugo, 2, 
+2021-10-26 15:29:08 - Flavia, 3, 
+2021-10-26 15:29:08 - Melissa, 1, 
+2021-10-26 15:29:08 - Total, 10, 
+
+2021-10-26 15:29:08 - Generation completed!
+2021-10-26 15:29:08 - Program Started~
+2021-10-26 15:29:08 - Error: Invalid Header Name!
+2021-10-26 15:29:08 - Program Started~
+2021-10-26 15:29:08 - Error: Input file not existed!
+2021-10-26 15:29:08 - Program Started~
+2021-10-26 15:29:08 - Error: Invalid Header Number!
+2021-10-26 15:29:08 - Program Started~
+2021-10-26 15:29:08 - Error: Student Name empty!
+2021-10-26 15:29:08 - Program Started~
+2021-10-26 15:29:08 - Error: Invalid Column Amount Of Student!
+2021-10-26 15:29:08 - Program Started~
+2021-10-26 15:29:08 - Error: Invalid Student Rating Type

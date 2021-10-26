@@ -1,0 +1,16 @@
+E:\proj\caAssignment1\bin\Debug\net5.0\caAssignment1.exe
+E:\proj\caAssignment1\bin\Debug\net5.0\caAssignment1.deps.json
+E:\proj\caAssignment1\bin\Debug\net5.0\caAssignment1.runtimeconfig.json
+E:\proj\caAssignment1\bin\Debug\net5.0\caAssignment1.runtimeconfig.dev.json
+E:\proj\caAssignment1\bin\Debug\net5.0\caAssignment1.dll
+E:\proj\caAssignment1\bin\Debug\net5.0\ref\caAssignment1.dll
+E:\proj\caAssignment1\bin\Debug\net5.0\caAssignment1.pdb
+E:\proj\caAssignment1\obj\Debug\net5.0\caAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\proj\caAssignment1\obj\Debug\net5.0\caAssignment1.AssemblyInfoInputs.cache
+E:\proj\caAssignment1\obj\Debug\net5.0\caAssignment1.AssemblyInfo.cs
+E:\proj\caAssignment1\obj\Debug\net5.0\caAssignment1.csproj.CoreCompileInputs.cache
+E:\proj\caAssignment1\obj\Debug\net5.0\caAssignment1.dll
+E:\proj\caAssignment1\obj\Debug\net5.0\ref\caAssignment1.dll
+E:\proj\caAssignment1\obj\Debug\net5.0\caAssignment1.pdb
+E:\proj\caAssignment1\obj\Debug\net5.0\caAssignment1.genruntimeconfig.cache
+E:\proj\caAssignment1\obj\Debug\net5.0\caAssignment1.csproj.AssemblyReference.cache
